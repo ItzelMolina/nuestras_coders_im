@@ -1,0 +1,22 @@
+body {
+  font-family: 'Shrikhand';
+}
+
+header > h2 {
+  margin: 8px 15px;
+}
+
+header > hr {
+  background-color: black;
+  border: none;
+  height: 5px;
+  margin-left: 15px;
+  width: 15%;
+}
+
+.coder {
+    height: 300px;
+    margin: 30px;
+    width: 300px;
+    overflow: hidden;
+}
